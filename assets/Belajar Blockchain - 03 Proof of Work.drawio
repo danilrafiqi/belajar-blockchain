@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T04:28:06.625Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="N2y5TK2numyPJW6n4eq3" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-04T04:42:47.304Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="cc1uTDY2XPOO4pux7v7Y" version="14.8.4" type="github" pages="2">
   <diagram id="1p5W6vF0cWJFoUf46gm6" name="Page-1">
     <mxGraphModel dx="893" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SgNwifBKHYJNlDfw5NTR-1" value="Hash from the last block" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+        <mxCell id="SgNwifBKHYJNlDfw5NTR-1" value="Hash dari transaksi terakhir" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="200" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="SgNwifBKHYJNlDfw5NTR-2" value="Block of transaction" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+        <mxCell id="SgNwifBKHYJNlDfw5NTR-2" value="Blok transaksi" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="200" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="SgNwifBKHYJNlDfw5NTR-3" value="Nonce: 1234" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="680" y="200" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="SgNwifBKHYJNlDfw5NTR-4" value="New Hashing&lt;br&gt;&lt;br&gt;0000017669BB9D3A3372 . . ." style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+        <mxCell id="SgNwifBKHYJNlDfw5NTR-4" value="Hash baru&lt;br&gt;&lt;br&gt;0000017669BB9D3A3372 . . ." style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="441" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="SgNwifBKHYJNlDfw5NTR-5" value="" style="endArrow=classic;html=1;exitX=0;exitY=0;exitDx=115;exitDy=5;exitPerimeter=0;" edge="1" parent="1" source="SgNwifBKHYJNlDfw5NTR-1">
@@ -33,6 +33,35 @@
             <mxPoint x="505" y="330" as="sourcePoint" />
             <mxPoint x="520" y="430" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kqM-a0FrOLBP2fPFDyc0" name="Page-2">
+    <mxGraphModel dx="893" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="8XYLhrBgmV5lf-E_SUiz-0" />
+        <mxCell id="8XYLhrBgmV5lf-E_SUiz-1" parent="8XYLhrBgmV5lf-E_SUiz-0" />
+        <mxCell id="8XYLhrBgmV5lf-E_SUiz-3" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.server_migration_service;" vertex="1" parent="8XYLhrBgmV5lf-E_SUiz-1">
+          <mxGeometry x="570" y="110" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6HIFpXVxRDMLLTa087al-0" value="Jaringan Blockchain" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8XYLhrBgmV5lf-E_SUiz-1">
+          <mxGeometry x="565" y="240" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6HIFpXVxRDMLLTa087al-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/success-filloutline/64/jigsaws-puzzle_pieces-planning-creative-strategy-128.png" vertex="1" parent="8XYLhrBgmV5lf-E_SUiz-1">
+          <mxGeometry x="180" y="102" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="6HIFpXVxRDMLLTa087al-5" value="Puzzle matematika&lt;br&gt;(Hash Sebelumnya + Blok Transaksi + Nonce)&lt;br&gt;&lt;br&gt;y=f(x)&lt;br&gt;x=?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8XYLhrBgmV5lf-E_SUiz-1">
+          <mxGeometry x="200" y="240" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6HIFpXVxRDMLLTa087al-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/world-issues/500/pickaxe-128.png;direction=south;" vertex="1" parent="8XYLhrBgmV5lf-E_SUiz-1">
+          <mxGeometry x="100" y="430" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="6HIFpXVxRDMLLTa087al-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/basic-ui-2-line/32/person-people-man-profile-human-128.png" vertex="1" parent="8XYLhrBgmV5lf-E_SUiz-1">
+          <mxGeometry x="72" y="450" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="fHSrv6ZOTVzKOw0cZiCZ-0" value="x1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="8XYLhrBgmV5lf-E_SUiz-1">
+          <mxGeometry x="100" y="508" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
